@@ -32,4 +32,3 @@ tsc index.js
 // initialize a project
 
 tsc init
-# ts-fundamentals
